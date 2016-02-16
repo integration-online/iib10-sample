@@ -1,3 +1,3 @@
 # iib10-sample
 
-Temporature convertion service sample from IBM for IIB
+Temperature convertion service sample from IBM for IIB
