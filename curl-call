@@ -1,0 +1,1 @@
+curl --header "Content-Type: text/xml;charset=UTF-8" --data @request.xml http://<<host>>:7800/TemperatureConverter/TemperatureConverter
